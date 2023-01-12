@@ -1,0 +1,16 @@
+{
+    "name": "Logical_comp_nodiff",
+    "number_of_subsets": 3,
+    "operators": [
+        ">",
+        "=",
+        "subset",
+        "intersection",
+        "union",
+        "card",
+        "comp_set",
+        "and",
+        "or",
+        "not"
+    ]
+}

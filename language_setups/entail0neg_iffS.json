@@ -1,0 +1,11 @@
+{
+    "name": "entail0neg_iff",
+    "number_of_subsets": 3,
+    "operators": [
+        "entail",
+        "entail_set",
+        "neg_iff",
+        "neg_iff_set",
+        "subset"
+    ]
+}

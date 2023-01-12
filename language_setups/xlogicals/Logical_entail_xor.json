@@ -1,0 +1,14 @@
+{
+    "name": "Logical_entail_xor",
+    "number_of_subsets": 3,
+    "operators": [
+        ">",
+        "=",
+        "card",
+        "subset",
+        "entail_set",
+        "xor_set",
+        "entail",
+        "xor"
+    ]
+}

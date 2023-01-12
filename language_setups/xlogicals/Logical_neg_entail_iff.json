@@ -1,0 +1,14 @@
+{
+    "name": "Logical_neg_entail_iff",
+    "number_of_subsets": 3,
+    "operators": [
+        ">",
+        "=",
+        "card",
+        "subset",
+        "neg_entail_set",
+        "iff_set",
+        "neg_entail",
+        "iff"
+    ]
+}

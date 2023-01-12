@@ -1,0 +1,9 @@
+{
+    "name": "nor",
+    "number_of_subsets": 3,
+    "operators": [
+        "nor",
+        "nor_set",
+        "identity"
+    ]
+}

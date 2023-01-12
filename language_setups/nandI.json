@@ -1,0 +1,9 @@
+{
+    "name": "nand",
+    "number_of_subsets": 3,
+    "operators": [
+        "nand",
+        "nand_set",
+        "identity"
+    ]
+}

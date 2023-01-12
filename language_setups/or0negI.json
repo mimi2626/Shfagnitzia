@@ -1,0 +1,11 @@
+{
+    "name": "or0neg",
+    "number_of_subsets": 3,
+    "operators": [
+        "or",
+        "union",
+        "neg",
+        "comp",
+        "identity"
+    ]
+}

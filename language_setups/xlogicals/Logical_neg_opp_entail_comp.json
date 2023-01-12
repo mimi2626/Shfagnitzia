@@ -1,0 +1,14 @@
+{
+    "name": "Logical_neg_opp_entail_comp",
+    "number_of_subsets": 3,
+    "operators": [
+        ">",
+        "=",
+        "card",
+        "subset",
+        "neg_opp_entail_set",
+        "comp_set",
+        "neg_opp_entail",
+        "not"
+    ]
+}

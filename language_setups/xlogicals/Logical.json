@@ -1,0 +1,16 @@
+{
+    "name": "Logical",
+    "number_of_subsets": 3,
+    "operators": [
+        ">",
+        "=",
+        "subset",
+        "intersection",
+        "union",
+        "card",
+        "diff",
+        "and",
+        "or",
+        "not"
+    ]
+}

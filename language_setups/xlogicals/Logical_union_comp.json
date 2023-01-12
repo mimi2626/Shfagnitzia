@@ -1,0 +1,13 @@
+{
+    "name": "Logical_union_comp",
+    "number_of_subsets": 3,
+    "operators": [
+        ">",
+        "=",
+        "union",
+        "card",
+        "comp_set",
+        "or",
+        "not"
+    ]
+}

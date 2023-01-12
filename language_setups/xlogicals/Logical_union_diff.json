@@ -1,0 +1,13 @@
+{
+    "name": "Logical_union_diff",
+    "number_of_subsets": 3,
+    "operators": [
+        ">",
+        "=",
+        "union",
+        "card",
+        "diff",
+        "or",
+        "not"
+    ]
+}

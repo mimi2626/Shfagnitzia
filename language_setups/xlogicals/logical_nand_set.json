@@ -1,0 +1,12 @@
+{
+    "name": "Logical_nand_set",
+    "number_of_subsets": 3,
+    "operators": [
+        ">",
+        "=",
+        "card",
+        "subset",
+        "nand_set",
+        "nand"
+    ]
+}

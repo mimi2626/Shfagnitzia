@@ -1,0 +1,11 @@
+{
+    "name": "and0neg",
+    "number_of_subsets": 3,
+    "operators": [
+        "and",
+        "intersection",
+        "neg",
+        "comp",
+        "subset"
+    ]
+}

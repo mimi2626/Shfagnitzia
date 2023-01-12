@@ -1,0 +1,11 @@
+{
+    "name": "neg_entail0neg",
+    "number_of_subsets": 3,
+    "operators": [
+        "neg_entail",
+        "neg_entail_set",
+        "neg",
+        "comp",
+        "subset"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Logical_nor_set",
+    "number_of_subsets": 3,
+    "operators": [
+        ">",
+        "=",
+        "subset",
+        "nor_set",
+        "card",
+        "nor"
+    ]
+}

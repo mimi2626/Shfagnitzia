@@ -1,0 +1,13 @@
+{
+    "name": "Logical_and_diff",
+    "number_of_subsets": 3,
+    "operators": [
+        ">",
+        "=",
+        "intersection",
+        "card",
+        "diff",
+        "and",
+        "not"
+    ]
+}

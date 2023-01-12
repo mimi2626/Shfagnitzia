@@ -1,0 +1,11 @@
+{
+    "name": "entail0neg_opp_entail",
+    "number_of_subsets": 3,
+    "operators": [
+        "entail",
+        "entail_set",
+        "neg_opp_entail",
+        "neg_opp_entail_set",
+        "identity"
+    ]
+}

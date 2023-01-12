@@ -1,0 +1,14 @@
+{
+    "name": "Logical_entail_comp_subset",
+    "number_of_subsets": 3,
+    "operators": [
+        ">",
+        "=",
+        "subset",
+        "entail_set",
+        "card",
+        "comp_set",
+        "entail",
+        "not"
+    ]
+}
